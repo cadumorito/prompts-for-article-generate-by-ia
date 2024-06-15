@@ -1,14 +1,4 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
 
-
-<p align="center">
-  <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
-  </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
-  </a>
-</p>
 
 -------
 
@@ -33,7 +23,7 @@ ChatGPT：
 
 **Prompts**
 
--- Primeiro, fui fazendo alguns testes:
+* Primeiro, fui fazendo alguns testes:
 
 {AÇÃO}
 Crie um artigo para mim
@@ -75,8 +65,14 @@ Separe nos seguintes blocos:
 -- Final
 -- Conclusão
 
+Adicione o bloco no final:
+-- Conteúdo gerado pelo ChatGPT e revisões humanas
 
+Incremente um call to action no meio de conclusão e conteúdo gerado pelo chatgpt, solicitando para seguir o flamengo nas redes sociais e afins
 
+* Depois, apenas pedi para mudar o tema e fazer com que seja um artigo técnico:
+
+Então faça um artigo técnico sobre o Python
 
 ## ✨ Features
 
@@ -94,7 +90,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Projeto feito por:
 
 Cadu Morito
-<a href="https://www.linkedin.com/in/cadumorito/" title="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/cadumorito/" title="LinkedIn">LinkedIn</a>
 
 ---
 
